@@ -1,6 +1,6 @@
 # 🎵 SpotifAI
 
-Python script that connects to your Spotify account, analyzes your liked songs, and uses AI to recommend fresh, never-before-suggested tracks—automatically updating your playlist with every run. Run it once or ten times a day — your playlist evolves with you.
+A Python-based automation script that connects to your Spotify account, analyzes your liked songs, and uses AI to recommend fresh, never-before-suggested tracks—automatically updating your playlist with every run. Run it once or ten times a day — your playlist evolves with you.
 
 ---
 
