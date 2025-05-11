@@ -1,0 +1,7 @@
+spotipy
+requests
+python-dotenv
+jupyter
+ipywidgets
+ipykernel
+openai
