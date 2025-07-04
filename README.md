@@ -2,6 +2,11 @@
 
 A Python-based automation script that connects to your Spotify account, analyzes your liked songs, and uses AI to recommend fresh, never-before-suggested tracks—automatically updating your playlist with every run. Run it once or ten times a day — your playlist evolves with you.
 
+<p style="text-align: center;">
+  <img src="./script.png" alt="App Screenshot" width="500" height="300"/>
+</p>
+
+
 ---
 
 ## 🔧 Setup
